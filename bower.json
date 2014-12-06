@@ -1,0 +1,32 @@
+{
+  "name": "blank-css-typography",
+  "version": "0.1.0",
+  "description": "Typography styles for blank-css",
+  "main": "typography.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-global-typography",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "typography"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-config": "~0.1.0",
+    "blank-css-rem": "~0.1.0"
+  }
+}
